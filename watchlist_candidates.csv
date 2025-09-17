@@ -1,0 +1,38 @@
+ticker,shares,cost_basis,tax_bucket,acct_code,sector,industry,theme,strategy,tags,notes,as_of
+NVDA,,,,,information_technology,semiconductors,ai_infra,core,us;mega_cap,AI leader; datacenter GPU,2025-09-17
+AMD,,,,,information_technology,semiconductors,ai_infra,growth,us;mega_cap,AI accelerators + CPUs,2025-09-17
+TSM,,,,,information_technology,semiconductors,ai_infra,core,tw;mega_cap,Foundry for advanced nodes,2025-09-17
+SMCI,,,,,information_technology,it_hardware,ai_infra,growth,us;large_cap,AI servers,2025-09-17
+ANET,,,,,information_technology,communications_equipment,ai_infra,growth,us;large_cap,High-speed networking,2025-09-17
+MRVL,,,,,information_technology,semiconductors,ai_infra,growth,us;large_cap,Datacenter/AI silicon,2025-09-17
+MU,,,,,information_technology,semiconductors,ai_infra,value,us;large_cap,Memory for AI/data,2025-09-17
+ASML,,,,,information_technology,semi_equipment,ai_infra,core,nl;mega_cap,EUV lithography,2025-09-17
+AMAT,,,,,information_technology,semi_equipment,ai_infra,core,us;mega_cap,Semi equipment,2025-09-17
+LRCX,,,,,information_technology,semi_equipment,ai_infra,core,us;mega_cap,Semi equipment,2025-09-17
+MSFT,,,,,information_technology,systems_software,ai_apps,core,us;mega_cap,Cloud + Copilot,2025-09-17
+GOOGL,,,,,communication_services,interactive_media,ai_apps,core,us;mega_cap,Search/Cloud/AI,2025-09-17
+META,,,,,communication_services,interactive_media,ai_apps,growth,us;mega_cap,Ads + AI infra,2025-09-17
+SNOW,,,,,information_technology,data_platforms,ai_apps,growth,us;large_cap,Data cloud,2025-09-17
+DDOG,,,,,information_technology,application_software,ai_apps,growth,us;large_cap,Observability,2025-09-17
+MDB,,,,,information_technology,databases,ai_apps,growth,us;large_cap,Operational DB,2025-09-17
+PLTR,,,,,information_technology,application_software,ai_apps,growth,us;large_cap,AI platforms/analytics,2025-09-17
+CRWD,,,,,information_technology,cybersecurity,ai_apps,growth,us;large_cap,Security + AI,2025-09-17
+PANW,,,,,information_technology,cybersecurity,ai_apps,growth,us;mega_cap,Security platforms,2025-09-17
+ZS,,,,,information_technology,cybersecurity,ai_apps,growth,us;large_cap,Zero trust security,2025-09-17
+DHI,,,,,consumer_discretionary,homebuilders,housing,core,us;large_cap,Scale builder,2025-09-17
+PHM,,,,,consumer_discretionary,homebuilders,housing,core,us;large_cap,Builder,2025-09-17
+KBH,,,,,consumer_discretionary,homebuilders,housing,value,us;mid_cap,Builder,2025-09-17
+LEN,,,,,consumer_discretionary,homebuilders,housing,core,us;large_cap,Builder,2025-09-17
+LGIH,,,,,consumer_discretionary,homebuilders,housing,value,us;mid_cap,Affordable homes,2025-09-17
+FOR,,,,,real_estate,real_estate_development,housing,value,us;small_mid,Land development,2025-09-17
+FCX,,,,,materials,metals_mining,copper,value,us;large_cap,Copper exposure,2025-09-17
+NEE,,,,,utilities,regulated_utilities,data_center_power,income,us;large_cap,Clean/renewables tilt,2025-09-17
+FSLR,,,,,information_technology,solar,energy_transition,growth,us;large_cap,Utility-scale solar,2025-09-17
+ENPH,,,,,information_technology,solar,energy_transition,growth,us;mid_cap,Residential solar/inverters,2025-09-17
+HUT,,,,,information_technology,crypto_mining,crypto,speculative,ca;small_mid,BTC miner/HPC campus,2025-09-17
+MARA,,,,,information_technology,crypto_mining,crypto,speculative,us;mid_cap,BTC miner,2025-09-17
+RIOT,,,,,information_technology,crypto_mining,crypto,speculative,us;mid_cap,BTC miner,2025-09-17
+IBKR,,,,,financials,brokers_exchanges,fintech,core,us;large_cap,Global brokerage,2025-09-17
+SCHW,,,,,financials,brokers_exchanges,fintech,core,us;large_cap,Brokerage/Bank,2025-09-17
+WING,,,,,consumer_discretionary,restaurants,consumer_growth,growth,us;mid_cap,Fast-casual wings,2025-09-17
+SBUX,,,,,consumer_discretionary,restaurants,consumer_growth,income,us;large_cap,Global coffee chain,2025-09-17
