@@ -1,12 +1,3 @@
 ticker,shares,cost_basis,tax_bucket,acct_code,sector,industry,theme,strategy,tags,notes,as_of
-BROS,,,,,consumer_discretionary,restaurants,consumer_growth,satellite,us;mid_cap,Drive-thru coffee chain,2025-09-17
-AVGO,,,,,information_technology,semiconductors,ai_infra,core,us;mega_cap,AI/datacenter & networking,2025-09-17
-GTLB,,,,,information_technology,application_software,devops,growth,us;mid_cap,DevOps platform,2025-09-17
 CRWV,,,,,information_technology,it_services,ai_infra,speculative,us;ai_capacity,AI compute provider,2025-09-17
-ORCL,,,,,information_technology,it_services,ai_infra,core,us;mega_cap,Cloud + AI workloads,2025-09-17
-HBM,,,,,materials,metals_mining,copper,value,ca;mid_cap,Copper/gold exposure,2025-09-17
-SOUN,,,,,information_technology,application_software,ai_apps,speculative,us;small_cap,Voice AI,2025-09-17
-OUST,,,,,industrials,sensors_lidar,ai_infra,speculative,us;small_cap,LiDAR for autonomy/robotics,2025-09-17
-RDDT,,,,,communication_services,interactive_media,social_ads,growth,us;large_cap,Ads + commerce flywheel,2025-09-17
-HOOD,,,,,financials,brokers_exchanges,fintech,growth,us;mid_cap,Retail brokerage platform,2025-09-17
-OPEN,,,,,real_estate,residential_re_services,housing,turnaround,us;small_cap,iBuying model,2025-09-17
+NBIS,,,,,information_technology,it_services,ai_infra,speculative,us;ai_capacity,AI compute provider,2025-09-17
