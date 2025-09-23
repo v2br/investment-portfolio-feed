@@ -11,7 +11,6 @@ AMAT,,,,,information_technology,semi_equipment,ai_infra,core,us;mega_cap,Semi eq
 LRCX,,,,,information_technology,semi_equipment,ai_infra,core,us;mega_cap,Semi equipment,2025-09-17
 MSFT,,,,,information_technology,systems_software,ai_apps,core,us;mega_cap,Cloud + Copilot,2025-09-17
 GOOGL,,,,,communication_services,interactive_media,ai_apps,core,us;mega_cap,Search/Cloud/AI,2025-09-17
-META,,,,,communication_services,interactive_media,ai_apps,growth,us;mega_cap,Ads + AI infra,2025-09-17
 SNOW,,,,,information_technology,data_platforms,ai_apps,growth,us;large_cap,Data cloud,2025-09-17
 DDOG,,,,,information_technology,application_software,ai_apps,growth,us;large_cap,Observability,2025-09-17
 MDB,,,,,information_technology,databases,ai_apps,growth,us;large_cap,Operational DB,2025-09-17
@@ -36,3 +35,8 @@ IBKR,,,,,financials,brokers_exchanges,fintech,core,us;large_cap,Global brokerage
 SCHW,,,,,financials,brokers_exchanges,fintech,core,us;large_cap,Brokerage/Bank,2025-09-17
 WING,,,,,consumer_discretionary,restaurants,consumer_growth,growth,us;mid_cap,Fast-casual wings,2025-09-17
 SBUX,,,,,consumer_discretionary,restaurants,consumer_growth,income,us;large_cap,Global coffee chain,2025-09-17
+HBM,,,,,consumer_discretionary,restaurants,consumer_growth,income,us;large_cap,Global coffee chain,2025-09-17
+AVGO,,,,,consumer_discretionary,restaurants,consumer_growth,income,us;large_cap,Global coffee chain,2025-09-17
+OUST,,,,,consumer_discretionary,restaurants,consumer_growth,income,us;large_cap,Global coffee chain,2025-09-17
+RDDT,,,,,consumer_discretionary,restaurants,consumer_growth,income,us;large_cap,Global coffee chain,2025-09-17
+HOOD,,,,,consumer_discretionary,restaurants,consumer_growth,income,us;large_cap,Global coffee chain,2025-09-17
