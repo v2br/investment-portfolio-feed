@@ -1,42 +1,75 @@
-ticker,shares,cost_basis,tax_bucket,acct_code,sector,industry,theme,strategy,tags,notes,as_of
-NVDA,,,,,information_technology,semiconductors,ai_infra,core,us;mega_cap,AI leader; datacenter GPU,2025-09-17
-AMD,,,,,information_technology,semiconductors,ai_infra,growth,us;mega_cap,AI accelerators + CPUs,2025-09-17
-TSM,,,,,information_technology,semiconductors,ai_infra,core,tw;mega_cap,Foundry for advanced nodes,2025-09-17
-SMCI,,,,,information_technology,it_hardware,ai_infra,growth,us;large_cap,AI servers,2025-09-17
-ANET,,,,,information_technology,communications_equipment,ai_infra,growth,us;large_cap,High-speed networking,2025-09-17
-MRVL,,,,,information_technology,semiconductors,ai_infra,growth,us;large_cap,Datacenter/AI silicon,2025-09-17
-MU,,,,,information_technology,semiconductors,ai_infra,value,us;large_cap,Memory for AI/data,2025-09-17
-ASML,,,,,information_technology,semi_equipment,ai_infra,core,nl;mega_cap,EUV lithography,2025-09-17
-AMAT,,,,,information_technology,semi_equipment,ai_infra,core,us;mega_cap,Semi equipment,2025-09-17
-LRCX,,,,,information_technology,semi_equipment,ai_infra,core,us;mega_cap,Semi equipment,2025-09-17
-MSFT,,,,,information_technology,systems_software,ai_apps,core,us;mega_cap,Cloud + Copilot,2025-09-17
-GOOGL,,,,,communication_services,interactive_media,ai_apps,core,us;mega_cap,Search/Cloud/AI,2025-09-17
-SNOW,,,,,information_technology,data_platforms,ai_apps,growth,us;large_cap,Data cloud,2025-09-17
-DDOG,,,,,information_technology,application_software,ai_apps,growth,us;large_cap,Observability,2025-09-17
-MDB,,,,,information_technology,databases,ai_apps,growth,us;large_cap,Operational DB,2025-09-17
-PLTR,,,,,information_technology,application_software,ai_apps,growth,us;large_cap,AI platforms/analytics,2025-09-17
-CRWD,,,,,information_technology,cybersecurity,ai_apps,growth,us;large_cap,Security + AI,2025-09-17
-PANW,,,,,information_technology,cybersecurity,ai_apps,growth,us;mega_cap,Security platforms,2025-09-17
-ZS,,,,,information_technology,cybersecurity,ai_apps,growth,us;large_cap,Zero trust security,2025-09-17
-DHI,,,,,consumer_discretionary,homebuilders,housing,core,us;large_cap,Scale builder,2025-09-17
-PHM,,,,,consumer_discretionary,homebuilders,housing,core,us;large_cap,Builder,2025-09-17
-KBH,,,,,consumer_discretionary,homebuilders,housing,value,us;mid_cap,Builder,2025-09-17
-LEN,,,,,consumer_discretionary,homebuilders,housing,core,us;large_cap,Builder,2025-09-17
-LGIH,,,,,consumer_discretionary,homebuilders,housing,value,us;mid_cap,Affordable homes,2025-09-17
-FOR,,,,,real_estate,real_estate_development,housing,value,us;small_mid,Land development,2025-09-17
-FCX,,,,,materials,metals_mining,copper,value,us;large_cap,Copper exposure,2025-09-17
-NEE,,,,,utilities,regulated_utilities,data_center_power,income,us;large_cap,Clean/renewables tilt,2025-09-17
-FSLR,,,,,information_technology,solar,energy_transition,growth,us;large_cap,Utility-scale solar,2025-09-17
-ENPH,,,,,information_technology,solar,energy_transition,growth,us;mid_cap,Residential solar/inverters,2025-09-17
-HUT,,,,,information_technology,crypto_mining,crypto,speculative,ca;small_mid,BTC miner/HPC campus,2025-09-17
-MARA,,,,,information_technology,crypto_mining,crypto,speculative,us;mid_cap,BTC miner,2025-09-17
-RIOT,,,,,information_technology,crypto_mining,crypto,speculative,us;mid_cap,BTC miner,2025-09-17
-IBKR,,,,,financials,brokers_exchanges,fintech,core,us;large_cap,Global brokerage,2025-09-17
-SCHW,,,,,financials,brokers_exchanges,fintech,core,us;large_cap,Brokerage/Bank,2025-09-17
-WING,,,,,consumer_discretionary,restaurants,consumer_growth,growth,us;mid_cap,Fast-casual wings,2025-09-17
-SBUX,,,,,consumer_discretionary,restaurants,consumer_growth,income,us;large_cap,Global coffee chain,2025-09-17
-HBM,,,,,consumer_discretionary,restaurants,consumer_growth,income,us;large_cap,Global coffee chain,2025-09-17
-AVGO,,,,,consumer_discretionary,restaurants,consumer_growth,income,us;large_cap,Global coffee chain,2025-09-17
-OUST,,,,,consumer_discretionary,restaurants,consumer_growth,income,us;large_cap,Global coffee chain,2025-09-17
-RDDT,,,,,consumer_discretionary,restaurants,consumer_growth,income,us;large_cap,Global coffee chain,2025-09-17
-HOOD,,,,,consumer_discretionary,restaurants,consumer_growth,income,us;large_cap,Global coffee chain,2025-09-17
+Symbol,Current Price,Date,Time,Change,Open,High,Low,Volume,Trade Date,Purchase Price,Quantity,Commission,High Limit,Low Limit,Comment,Transaction Type
+DOCN,43.45,2025/10/15,16:00 EDT,2.97,42.36,44.2,41.12,4912189,,,,,,,,
+GMG.V,0.94,2025/10/15,15:59 EDT,0.029999971,0.95,0.95,0.89,136438,,,,,,,,
+GRA.TO,2.82,2025/10/15,16:00 EDT,-0.08000016,2.95,2.97,2.81,67364,,,,,,,,
+SNDK,144.3,2025/10/15,16:00 EDT,17.010002,134.75,144.55,130.5001,8551821,,,,,,,,
+ETH-USD,3981.8682,2025/10/15,23:26 UTC,-153.72852,4126.726,4204.3374,3942.3796,50246242304,,,,,,,,
+LAC,9.44,2025/10/15,16:00 EDT,-0.610001,10.2,10.52,9.1,89752093,,,,,,,,
+CRML,22.72,2025/10/15,16:00 EDT,-7.25,26.43,28.0,20.73,51244703,,,,,,,,
+VRT,180.51,2025/10/15,16:00 EDT,5.36,180.0,182.99,175.6,5603712,,,,,,,,
+WULF,15.47,2025/10/15,16:00 EDT,0.010000229,15.98,16.18,14.97,45364790,,,,,,,,
+MRVL,88.89,2025/10/15,16:00 EDT,2.6699982,88.36,89.46,86.5945,14961182,,,,,,,,
+RKLB,69.27,2025/10/15,16:00 EDT,1.2399979,70.02,73.97,67.09,25932061,,,,,,,,
+AMSC,66.68,2025/10/15,16:00 EDT,1.1399994,68.14,70.4857,63.95,1496135,,,,,,,,
+POET,8.32,2025/10/15,16:00 EDT,-0.7300005,9.365,9.41,7.92,20878150,,,,,,,,
+APP,602.3,2025/10/15,16:00 EDT,12.2699585,603.38,615.38,592.32,3523270,,,,,,,,
+RUM,8.0,2025/10/15,16:00 EDT,-0.020000458,8.17,8.285,7.9,2951948,,,,,,,,
+ONDS,9.51,2025/10/15,16:00 EDT,-0.8999996,10.825,10.87,9.16,49000282,,,,,,,,
+ALAB,161.465,2025/10/15,16:00 EDT,-0.085006714,170.5,170.58,158.35,7400112,,,,,,,,
+IONQ,72.41,2025/10/15,16:00 EDT,-5.14,79.94,80.23,70.8,31042804,,,,,,,,
+KGC,26.9,2025/10/15,16:00 EDT,1.46,25.79,27.4499,25.75,11717768,,,,,,,,
+IREN,67.98,2025/10/15,16:00 EDT,-1.5799942,71.385,74.15,66.54,47676286,,,,,,,,
+DOCU,67.91,2025/10/15,16:00 EDT,-0.44999695,69.09,69.31,67.52,2261544,,,,,,,,
+PATH,16.69,2025/10/15,16:00 EDT,0.210001,17.02,17.2,16.1801,31679100,,,,,,,,
+CRCL,134.48,2025/10/15,16:00 EDT,0.019989,137.32,141.1,132.58,8839750,,,,,,,,
+DVLT,2.1,2025/10/15,16:00 EDT,-0.09000015,2.25,2.3,2.01,46502151,,,,,,,,
+ORCL,303.62,2025/10/15,16:01 EDT,4.62,304.9,311.01,298.94,11340183,,,,,,,,
+IBM,280.75,2025/10/15,16:00 EDT,4.60001,278.38,285.45,277.0,2647056,,,,,,,,
+VNET,9.59,2025/10/15,16:00 EDT,0.40999985,9.5,9.718,9.33,5530398,,,,,,,,
+INOD,82.98,2025/10/15,16:00 EDT,7.1500015,80.84,83.99,76.8,1926960,,,,,,,,
+FLNC,21.44,2025/10/15,16:00 EDT,2.9899998,20.58,21.87,19.6901,18733386,,,,,,,,
+PLTR,179.62,2025/10/15,16:00 EDT,-0.120010376,181.73,184.35,176.02,35778270,,,,,,,,
+CXT,67.6,2025/10/15,16:00 EDT,0.709999,67.82,68.32,66.28,297314,,,,,,,,
+MU,191.94,2025/10/15,16:00 EDT,4.880005,192.66,192.88,187.4235,17737635,,,,,,,,
+BBAI,8.52,2025/10/15,16:00 EDT,-0.389999,9.11,9.27,8.0,129690561,,,,,,,,
+COHR,110.41,2025/10/15,16:00 EDT,1.04,112.34,113.061,108.19,2695077,,,,,,,,
+PLUG,3.85,2025/10/15,16:00 EDT,-0.20000029,4.1702,4.25,3.6378,180232815,,,,,,,,
+W,81.31,2025/10/15,16:00 EDT,2.11,81.16,83.72,80.04,3363412,,,,,,,,
+HOOD,134.15,2025/10/15,16:00 EDT,-0.80000305,138.095,139.65,133.535,21930320,,,,,,,,
+SOUN,21.4,2025/10/15,16:00 EDT,0.539999,21.65,21.88,20.2144,54139006,,,,,,,,
+GLW,86.62,2025/10/15,16:00 EDT,2.01,86.06,87.43,85.47,4591816,,,,,,,,
+AEVA,19.19,2025/10/15,16:00 EDT,1.1200008,19.046,20.65,18.4,3966078,,,,,,,,
+IOT,37.71,2025/10/15,16:00 EDT,-0.330002,38.41,38.5,37.26,3618679,,,,,,,,
+PRIM,138.13,2025/10/15,16:01 EDT,-2.47,140.7,142.5,134.42,1459270,,,,,,,,
+ZS,302.35,2025/10/15,16:00 EDT,0.5500183,305.8,306.205,298.64,1054850,,,,,,,,
+PRCH,15.58,2025/10/15,16:00 EDT,0.10000038,15.82,15.89,15.39,1366099,,,,,,,,
+CRM,236.58,2025/10/15,16:00 EDT,-3.19,240.87,241.317,235.9,6772697,,,,,,,,
+AFRM,73.06,2025/10/15,16:00 EDT,0.13999939,74.05,75.06,72.24,3875723,,,,,,,,
+SNOW,240.86,2025/10/15,16:00 EDT,0.0299988,243.89,244.3258,240.12,2900364,,,,,,,,
+PSTG,92.58,2025/10/15,16:00 EDT,0.0800018,94.0,94.938,92.1122,3089684,,,,,,,,
+SEZL,77.99,2025/10/15,16:00 EDT,-2.0200043,80.13,80.68,75.3089,712185,,,,,,,,
+URBN,67.9,2025/10/15,16:00 EDT,-0.019996643,68.41,68.76,66.91,1363344,,,,,,,,
+UUUU,24.99,2025/10/15,16:00 EDT,-1.24,26.655,27.33,23.0,58564729,,,,,,,,
+HUT,53.91,2025/10/15,16:00 EDT,3.9650002,52.9675,57.2899,51.981,13561582,,,,,,,,
+NVDA,179.83,2025/10/15,16:00 EDT,-0.17810059,184.84,184.87,177.29,212080029,,,,,,,,
+RBLX,138.56,2025/10/15,16:00 EDT,5.28,138.69,141.95,136.66,8764116,,,,,,,,
+SOFI,28.03,2025/10/15,16:00 EDT,0.15999985,28.16,29.09,27.56,60580153,,,,,,,,
+OPEN,7.38,2025/10/15,16:00 EDT,-0.25999975,7.67,7.84,7.32,108579949,,,,,,,,
+BLSH,58.65,2025/10/15,16:00 EDT,-0.66,59.98,59.98,57.6,4720004,,,,,,,,
+NBIS,125.83,2025/10/15,16:00 EDT,-2.319992,131.8,131.99,122.2,11634192,,,,,,,,
+GTLB,43.645,2025/10/15,16:00 EDT,-1.1149979,45.26,45.35,43.53,2796955,,,,,,,,
+VSAT,36.49,2025/10/15,16:00 EDT,-0.4299965,37.75,38.67,35.98,2328895,,,,,,,,
+COMM,15.54,2025/10/15,16:00 EDT,0.019999504,15.75,15.805,15.245,3010413,,,,,,,,
+PGY,29.91,2025/10/15,16:00 EDT,0.049999237,30.41,30.6391,28.57,4192524,,,,,,,,
+OUST,36.83,2025/10/15,16:00 EDT,0.670002,37.99,41.65,35.77,4385493,,,,,,,,
+HBM,17.31,2025/10/15,16:00 EDT,0.279999,17.42,17.65,17.1201,8262216,,,,,,,,
+PSIX,93.235,2025/10/15,16:00 EDT,1.324997,94.79,97.89,91.5,423446,,,,,,,,
+NEGG,47.28,2025/10/15,16:00 EDT,-2.1399994,50.66,51.0,44.63,1312845,,,,,,,,
+GC=F,4223.5,2025/10/15,19:18 EDT,21.899902,4225.1,4230.6,4214.5,8630,,,,,,,,
+BROS,55.01,2025/10/15,16:00 EDT,2.09,53.63,55.085,53.07,4689969,,,,,,,,
+APLD,37.76,2025/10/15,16:00 EDT,2.7199974,36.86,40.08,35.61,52035432,,,,,,,,
+RDDT,200.76,2025/10/15,16:00 EDT,4.40999,201.36,203.8638,196.8,2356018,,,,,,,,
+CRWV,139.24,2025/10/15,16:00 EDT,5.180008,139.62,141.48,134.42,20505690,,,,,,,,
+FIG,63.82,2025/10/15,16:00 EDT,3.0,62.22,65.5,60.88,10487989,,,,,,,,
+RGTI,56.34,2025/10/15,16:00 EDT,0.19100189,57.83,57.955,50.5,134418849,,,,,,,,
+GOOG,251.71,2025/10/15,16:00 EDT,5.5200043,247.91,252.76,246.79,16025477,,,,,,,,
